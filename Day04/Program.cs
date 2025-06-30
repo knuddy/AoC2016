@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Day 04");
+﻿string[] input = File.ReadAllLines("input.txt");
